@@ -6,6 +6,7 @@ The core role of a manager is to deliver business value, and business value stan
   - Reducing costs
   - Reducing risks 
   - Increasing revenue
+  
 The manager therefore looks to oversee and maintain these pillars in a sustainable way, in order to continue to guarantee the delivery of business value. But today business value is something that is constantly changing, and changing fast. Users have access to nicer, cheaper and higher quality products and services all the time! And because these other products/services are so easily accessible, the user rapidly knows exactly what it wants and needs. This brings us to the importance of user centred development. User centricity is so important that it has become another pillar of business value. You could therefore say that the driving pillars of business value all revolve around user centricity today. 
 ## Project vs Product 
 ### Project mindset 
