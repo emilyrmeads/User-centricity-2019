@@ -4,7 +4,7 @@ Digital transformation has many definitions, because each company or business wi
 ## The role of a manager is to deliver business value. / What is the role of a manager?
 The core role of a manager is to deliver business value, and business value stands on a few important pillars. Traditionally the pillars of delivering business value are: 
 
-![Business Value Pillars](bizpillars1.jpg =100x200)
+![Business Value Pillars](bizpillars1.jpg){:height="75%" width="50%"}
   - Reducing costs
   - Reducing risks 
   - Increasing revenue
