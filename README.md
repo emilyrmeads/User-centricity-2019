@@ -38,4 +38,4 @@ A  product mindset goes out into the market and tries to find out what the custo
 
 ## A Summary diagram for all this 
 
-<center><img src="usercentricity.jpg" width="300height=500/center>
+<center><img src="usercentricity.jpg" width="300height=500></center>
