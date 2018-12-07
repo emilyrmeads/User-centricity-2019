@@ -35,3 +35,7 @@ Quote of former Nokia CEO "WE didn't do anything wrong, but somehow we lost." Th
 A  product mindset goes out into the market and tries to find out what the custommer really needs NOW. A product mindset wants to find out what challenges the end-user is having, what are the end-user's requirements, and how they can be helped in the most efficient way possible. By having a closer look at the end user's needs, you can have a more accurate scope for what you want to do, and from this figure out how to validate this scope. But the scope must be evaluated to extract what the highest possible value, and minimum viable product that can be produced in order to validate the assumption regarding the market. This can then be executed quickly and a working product can be pushed into the market to collect feedback
 ## What is the role of a manager now? 
 ## Risks 
+
+## A Summary diagram for all this 
+
+<center><img src="usercentricity.jpg" width="300height=500/center>
