@@ -43,7 +43,7 @@ A  product mindset goes out into the market and tries to find out what the custo
 
 ## What is the role of a manager now? 
 
-The role of the manager today is more of a 'Transformation leader'. The transformation leader's job is to enable and promote agile processes and development without impeding on autonomy. In fact, the leader must focus on removing impediments and promoting autonomy through agile coaching. Also importantly, the leader should facilitate conflict resolution and mediation. By encouraging a culture of respect, and trust, autonomous teams should strengthen and continue to be the most reliable and efficient way to
+The role of the manager today is more of a 'Transformation leader'. The transformation leader's job is to enable and promote agile processes and development without impeding on autonomy. In fact, the leader must focus on removing impediments and promoting autonomy through agile coaching. Also importantly, the leader should facilitate conflict resolution and mediation. By encouraging a culture of respect, and trust, autonomous teams should strengthen and continue to be the most reliable and efficient way to embody agile processes.
 
 ## Notes on the Agile Manifesto Principles
 
@@ -91,8 +91,19 @@ Simple approaches are more than often the easiest to change. It's always easier 
 
 Self-organizing teams, where the interactions are high and the process rules are few, facilitate creativity and innovation. The best way to promote iterative processes and software development is to leave decisions and responsibility in the hands of those who are the closest them.
 
-
 ## Risks 
+
+- autonomy is fragile
+- incentives can be misaligned (bonuses)
+- teams take 6 months to delivery their maximum potential
+- compliance officers
+- trust is hard to build and easy to lose
+- IT departments can get in the way 
+- Relying on existing structures can become messy 
+- Conforming to company policy can be limiting and challenging
+- Have to fight against the 'this is always the way we have done things'
+- Easy to fall back into confortable old habits
+
 
 ## A Summary diagram for all this 
 
