@@ -39,8 +39,11 @@ Quote of former Nokia CEO "WE didn't do anything wrong, but somehow we lost." Th
 
 ### Product mindset 
 
-A  product mindset goes out into the market and tries to find out what the custommer really needs NOW. A product mindset wants to find out what challenges the end-user is having, what are the end-user's requirements, and how they can be helped in the most efficient way possible. By having a closer look at the end user's needs, you can have a more accurate scope for what you want to do, and from this figure out how to validate this scope. But the scope must be evaluated to extract what the highest possible value, and minimum viable product that can be produced in order to validate the assumption regarding the market. This can then be executed quickly and a working product can be pushed into the market to collect feedback
+A  product mindset goes out into the market and tries to find out what the custommer really needs NOW. A product mindset wants to find out what challenges the end-user is having, what are the end-user's requirements, and how they can be helped in the most efficient way possible. By having a closer look at the end user's needs, you can have a more accurate scope for what you want to do, and from this figure out how to validate this scope. But the scope must be evaluated to extract what the highest possible value, and minimum viable product that can be produced in order to validate the assumption regarding the market. This can then be executed quickly and a working product can be pushed into the market to collect feedback.
+
 ## What is the role of a manager now? 
+
+The role of the manager today is more of a 'Transformation leader'. The transformation leader's job is to enable and promote agile processes and development without impeding on autonomy. In fact, the leader must focus on removing impediments and promoting autonomy through agile coaching. Also importantly, the leader should facilitate conflict resolution and mediation. By encouraging a culture of respect, and trust, autonomous teams should strengthen and continue to be the most reliable and efficient way to
 
 ## Notes on the Agile Manifesto Principles
 
@@ -66,7 +69,7 @@ At the end of the day, it's your team that will make the difference between succ
 
 6) *The most efficient and effective method of conveying information with and within a development team is face-to-face conversation.*
 
-Documentation is important, but often its measure of success in transmitting knowledge is questionable. Tacit knowledge is best transfered by moving the people who have the knowledge around. Tacit knowledge is often the relationships among the facts, meaning that it is only by having people share their ideas about the facts that something useful can be applied to a specific situation. 
+Documentation is important, but often an actual measure of how successful it is in transmitting knowledge is questionable. Tacit knowledge is best transfered by moving the people who have the knowledge around. Tacit knowledge can be described as the relationships among the facts, meaning that it is only by having people share their ideas about the facts that something useful can be applied to a specific situation. 
 
 7) *Working software is the primary measure of progress* 
 
@@ -86,7 +89,7 @@ Simple approaches are more than often the easiest to change. It's always easier 
 
 11) *The best architectures, requirements and designs emerge from self-organizing teams.* 
 
-
+Self-organizing teams, where the interactions are high and the process rules are few, facilitate creativity and innovation. The best way to promote iterative processes and software development is to leave decisions and responsibility in the hands of those who are the closest them.
 
 
 ## Risks 
